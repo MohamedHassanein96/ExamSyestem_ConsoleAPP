@@ -1,0 +1,14 @@
+D:\Projects c#\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.exe
+D:\Projects c#\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.deps.json
+D:\Projects c#\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.runtimeconfig.json
+D:\Projects c#\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.dll
+D:\Projects c#\ExamSystem\ExamSystem\bin\Debug\net8.0\ExamSystem.pdb
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfoInputs.cache
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.AssemblyInfo.cs
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.csproj.CoreCompileInputs.cache
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.dll
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\refint\ExamSystem.dll
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.pdb
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ExamSystem.genruntimeconfig.cache
+D:\Projects c#\ExamSystem\ExamSystem\obj\Debug\net8.0\ref\ExamSystem.dll

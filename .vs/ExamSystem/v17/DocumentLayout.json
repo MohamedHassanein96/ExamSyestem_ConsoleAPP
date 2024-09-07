@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects c#\\ExamSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|d:\\projects c#\\examsystem\\examsystem\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|d:\\projects c#\\examsystem\\examsystem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\questionform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|d:\\projects c#\\examsystem\\examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{860FF860-A0A9-45A2-BC05-7B56DE725857}|ExamSystem\\ExamSystem.csproj|solutionrelative:examsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects c#\\ExamSystem\\ExamSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Program.cs",
+              "ToolTip": "D:\\Projects c#\\ExamSystem\\ExamSystem\\Program.cs",
+              "RelativeToolTip": "ExamSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T10:44:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuestionForm.cs",
+              "DocumentMoniker": "D:\\Projects c#\\ExamSystem\\ExamSystem\\QuestionForm.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\QuestionForm.cs",
+              "ToolTip": "D:\\Projects c#\\ExamSystem\\ExamSystem\\QuestionForm.cs",
+              "RelativeToolTip": "ExamSystem\\QuestionForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T22:27:45.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\Projects c#\\ExamSystem\\ExamSystem\\Response.cs",
+              "RelativeDocumentMoniker": "ExamSystem\\Response.cs",
+              "ToolTip": "D:\\Projects c#\\ExamSystem\\ExamSystem\\Response.cs",
+              "RelativeToolTip": "ExamSystem\\Response.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAwwCEAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T17:24:43.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
